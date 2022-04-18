@@ -1,0 +1,22 @@
+PODS:
+  - Flutter (1.0.0)
+  - human_body_selector (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - human_body_selector (from `.symlinks/plugins/human_body_selector/ios`)
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  human_body_selector:
+    :path: ".symlinks/plugins/human_body_selector/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 50d75fe2f02b26cc09d224853bb45737f8b3214a
+  human_body_selector: 9cabaf1cf5c8582e453a87818b99ecf1ead1ffe5
+
+PODFILE CHECKSUM: aafe91acc616949ddb318b77800a7f51bffa2a4c
+
+COCOAPODS: 1.10.1
